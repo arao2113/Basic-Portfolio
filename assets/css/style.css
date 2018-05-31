@@ -53,6 +53,11 @@ nav ul li:last-child a{
     padding-right: none;
 }
 
+nav a:hover{
+    background: #4aaaa5;
+    color: black;
+}
+
 p{
     font-size: 16px;
     line-height: 22px;
@@ -102,6 +107,11 @@ button{
     margin: 10px 0;
     font-size: 18px;
     border: none;
+}
+
+button:hover{
+    cursor: pointer;
+    
 }
 .image{
     width: 200px;
